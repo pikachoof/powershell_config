@@ -1,0 +1,2 @@
+Exit-PSSession
+powershell
